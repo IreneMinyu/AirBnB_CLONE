@@ -165,6 +165,4 @@ guillaume@ubuntu:~/AirBnB$
 
 ## Authors
 
-- [@Stephen Muchendu Maina](https://www.github.com/muchendumaina)
-
 - [@Wangari Minyu](https://www.github.com/IreneMinyu)
